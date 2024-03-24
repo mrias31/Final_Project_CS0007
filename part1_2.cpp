@@ -5,7 +5,8 @@ void PartOne_Two::swap(int *a, int *b) {
     *a = *b;
     *b = temp;
 }
-void PartOne_Two::selectionSort(int array[], int size) { // Selectioon sort, a greedy algorithm-type approach to sorting.
+
+void PartOne_Two::selectionSort(int array[], int size) { // Selection sort, a greedy algorithm-type approach to sorting.
 for (int step = 0; step < size - 1; step++) {
     int min_idx = step;
     for (int i = step + 1; i < size; i++) {
@@ -15,7 +16,6 @@ for (int step = 0; step < size - 1; step++) {
     swap(&array[min_idx], &array[step]);
     }
 }
-
 
 void PartOne_Two::readData(std::string source){ // Function to read data from the csv file.
     std::ifstream api_marketData;

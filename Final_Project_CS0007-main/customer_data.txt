@@ -1,0 +1,16 @@
+Matt,4,4,4
+Gab,2,7,3
+Matt,4,4,4
+Jake,4,5,4
+John,3,11,5
+Ren,5,12,5
+Edgar,12,10,5
+Mark,7,4,4
+Mariel,7,7,5
+Jason,4,4,5
+Viel,0,10,3
+Suzy,2,13,3
+Matt,6,12,5
+yes,13,5,4
+Retri,3,5,5
+Gab,7,12,4
